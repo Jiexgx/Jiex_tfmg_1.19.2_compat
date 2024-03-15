@@ -1,0 +1,9 @@
+{
+	"type":"createaddition:liquid_burning",
+	"input": {
+      	"fluid": "createindustry:kerosene",
+"superheated": true,
+      	"amount": 1000
+	},
+	"burnTime": 48000
+}

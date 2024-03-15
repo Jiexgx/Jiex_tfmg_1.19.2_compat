@@ -1,0 +1,10 @@
+{
+	"type":"createaddition:liquid_burning",
+	"input": {
+      	"fluid": "createindustry:gasoline",
+      	"amount": 1000
+	},
+	
+	"burnTime": 48000,
+	"superheated": true	       	
+}

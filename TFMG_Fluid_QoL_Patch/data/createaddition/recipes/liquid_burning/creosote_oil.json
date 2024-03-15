@@ -1,0 +1,16 @@
+{
+	"type":"createaddition:liquid_burning",
+	"input": {
+      	"fluid": "createindustry:creosote",
+      	"amount": 1000
+	},
+	"burnTime": 2400,
+         "superheated": false,
+	"conditions": [
+	    {
+	        "fluid": "createindustry:creosote",
+"amount": 1000
+
+	    }
+	]
+}

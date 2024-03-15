@@ -1,0 +1,9 @@
+{
+	"type":"createaddition:liquid_burning",
+	"input": {
+      	"fluid": "createindustry:carbon_dioxide",
+"superheated": false,
+      	"amount": 1000
+	},
+	"burnTime": 480
+}

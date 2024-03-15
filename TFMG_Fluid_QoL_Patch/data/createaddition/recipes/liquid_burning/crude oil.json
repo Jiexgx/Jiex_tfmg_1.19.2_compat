@@ -1,0 +1,8 @@
+{
+	"type":"createaddition:liquid_burning",
+	"input": {
+      	"fluid": "createindustry:crude_oil_fluid",
+      	"amount": 1000
+	},
+	"burnTime": 9600
+}
